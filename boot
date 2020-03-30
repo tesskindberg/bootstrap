@@ -12,9 +12,9 @@
 <div class="navbar-nav">
   <a class="nav-item nav-link active" href="#">Hjem</a>
   <a class="nav-item nav-link" href="#">PDF</a>
-  <a class="nav-item nav-link" href="#">andet</a>
-  <a class="nav-item nav-link" href="#">andet</a>
-  <a class="nav-item nav-link" href="#">andet</a>
+  <a class="nav-item nav-link" href="#">Symptomer</a>
+  <a class="nav-item nav-link" href="#">Danmark</a>
+  <a class="nav-item nav-link" href="#">Status</a>
 </div>
 </nav>
 <div class="container" class="d-inline">
@@ -28,7 +28,7 @@
     <section class="col">
       <h3 class="pt-3">Graf 1</h3>
       <p>Denne graf viser:</p>
-      <div class="flourish-embed flourish-map" data-src="visualisation/1732220"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+      <div class="flourish-embed flourish-map" data-src="visualisation/1725528"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
     </section>
     <section class="col">
       <h3 class="pt-3">Graf 2</h3>
