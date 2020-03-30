@@ -6,15 +6,16 @@
 </head>
 <body>
 
-  <nav class="navbar bg-dark navbar-dark navbar-expand-md ">
+ <div class="container d-inline">
+ <nav class="navbar bg-dark navbar-dark navbar-expand-md ">
   <a class="nav-logo d-none d-sm-inline-block" href="#"><img src="images/covid-19.png" style="width: 40px;"alt="covid-19">
   </a>
 <div class="navbar-nav">
   <a class="nav-item nav-link active" href="#">Hjem</a>
   <a class="nav-item nav-link" href="#">PDF</a>
-  <a class="nav-item nav-link" href="#">Symptomer</a>
-  <a class="nav-item nav-link" href="#">Danmark</a>
-  <a class="nav-item nav-link" href="#">Status</a>
+  <a class="nav-item nav-link" href="#">andet</a>
+  <a class="nav-item nav-link" href="#">andet</a>
+  <a class="nav-item nav-link" href="#">andet</a>
 </div>
 </nav>
 <div class="container" class="d-inline">
@@ -28,18 +29,24 @@
     <section class="col">
       <h3 class="pt-3">Graf 1</h3>
       <p>Denne graf viser:</p>
-      <div class="flourish-embed flourish-map" data-src="visualisation/1725528"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+      <div class="flourish-embed flourish-map" data-src="visualisation/1732220"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
     </section>
     <section class="col">
       <h3 class="pt-3">Graf 2</h3>
       <p>Denne graf viser:</p>
     </section>
 </div>
-
-    <div class="footer text-muted">
-      <p>Dette er et skoleprojekt lavet af Monique Wendelboe Lohmann Andersen, Sara Nikoline Schou Andreasen, Sarah Billing Børger & Mia Tess Koreska Sass Kindberg</p>
-    </div>
 </div>
+
+
+   <div class="footer text-muted text-dark bg-dark d-inline">
+        <p class="bg-dark text-center text-light"><br> Dette er et skoleprojektlavet af  <br><br><br>
+          Monique Wendelboe Lohmann Andersen <br><br>Sara Nikoline Schou Andreasen<br><br> Sarah Billing Børger <br><br> Mia Tess Koreska Sass Kindberg <br><br></p>
+      </div>
+</div>
+</div>
+
+
 
 </body>
 </html>
