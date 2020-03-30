@@ -6,15 +6,20 @@
 </head>
 <body>
 <div class="container" class="d-inline">
-  <nav class="navbar bg-dark navbar-light navbar-expand-md">
-    <ul class="nav">
-      <li class="nav-item"> <a class="nav-link" href="#">Hjem</a> </li>
-      <li class="nav-item"> <a class="nav-link" href="#">Andet</a> </li>
-      <li class="nav-item"> <a class="nav-link" href="#">Andet 2</a> </li>
-      <li class="nav-item"> <a class="nav-link" href="#">Andet 3</a> </li>
-      <li class="nav-item"> <a class="nav-link" href="#">Andet 4</a> </li>
-    </ul>
+  <nav class="navbar bg-dark navbar-dark navbar-expand-md">
+    <a class="nav-logo d-none d-sm-inline-block" href="#"><img src="images/covid-19.png" style="width: 40px;"alt="covid-19">
+    </a>
+
+  <div class="navbar-nav">
+    <a class="nav-item nav-link active" href="#">Hjem</a>
+    <a class="nav-item nav-link" href="#">PDF</a>
+    <a class="nav-item nav-link" href="#">andet</a>
+    <a class="nav-item nav-link" href="#">andet</a>
+    <a class="nav-item nav-link" href="#">andet</a>
+
+  </div>
   </nav>
+  
   <h1>COVID-19</h1>
 <p>COVID-19 er noget der fylder meget i vores dagligdag her for tiden. COVID-19 er en sygdom der også stammer fra coronavirus ligesom influenza. Men desværre har den udviklet sig til noget værre for især ældre og allerede udsatte.
   Selvom der er meget få der reelt dør af sygdommen er der stadig mange der er bange for sygdommen. Men fordi der er en procentdel der ender på hospitalet hvis de får COVID-19 er man begyndt i mange lande at indføre selv isolation.
