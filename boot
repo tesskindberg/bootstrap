@@ -40,8 +40,8 @@
 
 
    <div class="footer text-muted text-dark bg-dark d-inline">
-        <p class="bg-dark text-center text-light"><br> Dette er et skoleprojektlavet af  <br><br><br>
-          Monique Wendelboe Lohmann Andersen <br><br>Sara Nikoline Schou Andreasen<br><br> Sarah Billing Børger <br><br> Mia Tess Koreska Sass Kindberg <br><br></p>
+        <p class="bg-dark text-center text-light"><br> Dette er et skoleprojektlavet af:  <br><br>
+          Monique Wendelboe Lohmann Andersen<br><br> Mia Tess Koreska Sass Kindberg <br><br>Sara Nikoline Schou Andreasen<br><br> Sarah Billing Børger<br><br></p>
       </div>
 </div>
 </div>
