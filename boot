@@ -7,15 +7,14 @@
 <body>
 
  <div class="container d-inline">
- <nav class="navbar bg-dark navbar-dark navbar-expand-md ">
-  <a class="nav-logo d-none d-sm-inline-block" href="#"><img src="images/covid-19.png" style="width: 40px;"alt="covid-19">
+ <nav class="navbar bg-dark navbar-dark navbar-expand-md sticky-top justify-content-center">
+  <a class="nav-logo d-none d-sm-inline-block" href="boot.html"><img src="covid-19.png" style="width: 40px;"alt="covid-19">
   </a>
 <div class="navbar-nav">
-  <a class="nav-item nav-link active" href="#">Hjem</a>
   <a class="nav-item nav-link" href="#">PDF</a>
-  <a class="nav-item nav-link" href="#">andet</a>
-  <a class="nav-item nav-link" href="#">andet</a>
-  <a class="nav-item nav-link" href="#">andet</a>
+  <a class="nav-item nav-link" href="#">Symptomer</a>
+  <a class="nav-item nav-link" href="#">Danmark</a>
+  <a class="nav-item nav-link" href="#">Status</a>
 </div>
 </nav>
 <div class="container" class="d-inline">
@@ -34,6 +33,7 @@
     <section class="col">
       <h3 class="pt-3">Graf 2</h3>
       <p>Denne graf viser:</p>
+      <div class="flourish-embed" data-src="visualisation/1731809"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
     </section>
 </div>
 </div>
