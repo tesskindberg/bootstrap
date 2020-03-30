@@ -39,7 +39,9 @@
          in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
          sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </section>
-
+    <div class="footer text-muted">
+      <p>Dette er et skoleprojekt lavet af Monique Wendelboe Lohmann Andersen, Sara Nikoline Schou Andreasen, Sarah Billing Børger & Mia Tess Koreska Sass Kindberg</p>
+    </div>
 </div>
 </div>
 
