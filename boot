@@ -29,7 +29,7 @@
       <h3 class="pt-3 text-warning">Graf over Europa</h3>
       <p>Grafen viser antallet af cases i Europa. Og hvilke lande der har haft flest cases. Det er muligt at søge et specifikt land frem,
         men menu baren kan også bruges til at se hvilket lande har haft de fleste recovery cases eller death cases.</p>
-      <div class="flourish-embed flourish-map" data-src="visualisation/1732220"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+      <div class="flourish-embed flourish-map" data-src="visualisation/1725528"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
     </section>
     <section class="col">
       <h3 class="pt-3 text-warning">Graf over Danmark</h3>
