@@ -7,7 +7,7 @@
 <body>
 
  <div class="container d-inline">
- <nav class="navbar bg-dark navbar-dark navbar-expand-md sticky-top justify-content-center">
+ <nav class="navbar bg-dark navbar-dark navbar-expand-md sticky-top justify-content-center mt-n4">
   <a class="nav-logo d-none d-sm-inline-block" href="boot.html"><img src="covid-19.png" style="width: 40px;"alt="covid-19">
   </a>
 <div class="navbar-nav">
@@ -40,15 +40,12 @@
 </div>
 </div>
 
-
-   <div class="footer text-muted text-dark bg-dark d-inline">
+   <div class="footer text-muted text-dark bg-dark d-inline ">
         <p class="bg-dark text-center text-light"><br> Dette er et skoleprojektlavet af:  <br><br>
           Monique Wendelboe Lohmann Andersen<br><br> Mia Tess Koreska Sass Kindberg <br><br>Sara Nikoline Schou Andreasen<br><br> Sarah Billing Børger<br><br></p>
       </div>
 </div>
 </div>
-
-
 
 </body>
 </html>
