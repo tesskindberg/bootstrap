@@ -11,7 +11,7 @@
   <a class="nav-logo d-none d-sm-inline-block" href="boot.html"><img src="covid-19.png" style="width: 40px;"alt="covid-19">
   </a>
 <div class="navbar-nav">
-  <a class="nav-item nav-link" href="http://tesskindberg.dk/pdf/GruppeorganiseringA1.pdf">PDF</a>
+  <a class="nav-item nav-link" href="http://tesskindberg.dk/pdf/GruppeorganiseringA1.pdf" target="_blank">PDF</a>
   <a class="nav-item nav-link disabled" href="#">Symptomer</a>
   <a class="nav-item nav-link disabled" href="#">Danmark</a>
   <a class="nav-item nav-link disabled" href="#">Status</a>
