@@ -12,9 +12,9 @@
   </a>
 <div class="navbar-nav">
   <a class="nav-item nav-link" href="#">PDF</a>
-  <a class="nav-item nav-link" href="#">Symptomer</a>
-  <a class="nav-item nav-link" href="#">Danmark</a>
-  <a class="nav-item nav-link" href="#">Status</a>
+  <a class="nav-item nav-link disabled" href="#">Symptomer</a>
+  <a class="nav-item nav-link disabled" href="#">Danmark</a>
+  <a class="nav-item nav-link disabled" href="#">Status</a>
 </div>
 </nav>
 <div class="container" class="d-inline">
