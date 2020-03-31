@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Bootstrap</title>
-<link rel="stylesheet" href="CSS/bootstrap.min.css">
+<link rel="stylesheet" href="bootstrap.min.css">
 </head>
 <body>
 
@@ -11,7 +11,7 @@
   <a class="nav-logo d-none d-sm-inline-block" href="boot.html"><img src="covid-19.png" style="width: 40px;"alt="covid-19">
   </a>
 <div class="navbar-nav">
-  <a class="nav-item nav-link" href="#">PDF</a>
+  <a class="nav-item nav-link" href="http://tesskindberg.dk/pdf/GruppeorganiseringA1.pdf">PDF</a>
   <a class="nav-item nav-link disabled" href="#">Symptomer</a>
   <a class="nav-item nav-link disabled" href="#">Danmark</a>
   <a class="nav-item nav-link disabled" href="#">Status</a>
