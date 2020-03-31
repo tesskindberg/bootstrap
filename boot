@@ -27,12 +27,14 @@
 <div class="row row-cols-2">
     <section class="col">
       <h3 class="pt-3">Graf 1</h3>
-      <p>Denne graf viser:</p>
+      <p>Grafen viser antallet af cases i Europa. Og hvilke lande der har haft flest cases. Det er muligt at søge et specifikt land frem,
+        men menu baren kan også bruges til at se hvilket lande har haft de fleste recovery cases eller death cases.</p>
       <div class="flourish-embed flourish-map" data-src="visualisation/1732220"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
     </section>
     <section class="col">
       <h3 class="pt-3">Graf 2</h3>
-      <p>Denne graf viser:</p>
+      <p>Grafen fokusere specifikt på Danmark, og viser hvor mange cases der har været i de forskellige byer rundt i landet.
+        Det er muligt at køre muse over de forskellige områder på grafen, eller at bruge søgefeltet til at finde en specifik by.</p>
       <div class="flourish-embed" data-src="visualisation/1731809"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
     </section>
 </div>
