@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="da-DK" dir="ltr">
 <head>
+  <meta charset="utf-8">
 <title>Bootstrap</title>
 <link rel="stylesheet" href="bootstrap.min.css">
 </head>
@@ -25,13 +26,13 @@
   Fordi COVID-19 er så meget i nyhederne og har mange datasæt har vi valgt at lave vores opgave om COVID-19 ved hjælp af worldometers data, og vi har lavet følgende to grafer.
 </p>
 <div class="row row-cols-2">
-    <section class="col">
+    <section class="col col-md-6 col-sm-12">
       <h3 class="pt-3 text-warning">Graf over Europa</h3>
       <p>Grafen viser antallet af cases i Europa. Og hvilke lande der har haft flest cases. Det er muligt at søge et specifikt land frem,
         men menu baren kan også bruges til at se hvilket lande har haft de fleste recovery cases eller death cases.</p>
       <div class="flourish-embed flourish-map" data-src="visualisation/1725528" data-url="https://public.flourish.studio/visualisation/1725528/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
     </section>
-    <section class="col">
+    <section class="col col-md-6 col-sm-12">
       <h3 class="pt-3 text-warning">Graf over Danmark</h3>
       <p>Grafen fokusere specifikt på Danmark, og viser hvor mange cases der har været i de forskellige byer rundt i landet.
         Det er muligt at køre muse over de forskellige områder på grafen, eller at bruge søgefeltet til at finde en specifik by.</p>
@@ -41,8 +42,8 @@
 </div>
 
    <div class="footer text-muted text-dark bg-dark d-inline ">
-        <p class="bg-dark text-center text-light mb-n4"><br> Dette er et skoleprojektlavet af:  <br><br>
-          Monique Wendelboe Lohmann Andersen<br><br> Mia Tess Koreska Sass Kindberg <br><br>Sara Nikoline Schou Andreasen<br><br> Sarah Billing Børger<br><br></p>
+        <p class="bg-dark text-center text-light mb-n4"><br> Dette er et skoleprojekt lavet af:  <br><br>
+          Monique Wendelboe Lohmann Andersen<br><br> Mia Tess Koreska Sass Kindberg <br><br>Sara Nikoline Schou Andreasen<br><br> Sarah Billing Boerger<br><br></p>
       </div>
 </div>
 </div>
